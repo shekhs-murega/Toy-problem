@@ -12,3 +12,11 @@ def convert_to_24hour(hour, minute, period):
     return f"{hour:02d}{minute:02d}"    
 
  
+# Get user input for hour, minute, and period
+hour = int(input("Enter the hour (1-12): "))
+minute = int(input("Enter the minute (0-59): "))
+period = input("Enter 'am' or 'pm': ")
+
+# Call the function with user-provided inputs and print the result
+result = convert_to_24hour(hour, minute, period)
+print(f"The 24-hour format is: {result}")  
