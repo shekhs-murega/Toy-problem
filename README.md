@@ -1,15 +1,5 @@
 # Toy-problem
 
-  _______  _______  _______  _______    _______           _______  _______ 
- (  ___  )(  ____ \(  ____ \(  ____ \  (  ____ \|\     /|(  ____ \(  ____ \
- | (   ) || (    \/| (    \/| (    \/  | (    \/| )   ( || (    \/| (    \/
- | (___) || (_____ | (__    | |        | (_____ | (___) || (__    | (__    
- |  ___  |(_____  )|  __)   | |        (_____  )|  ___  ||  __)   |  __)   
- | (   ) |      ) || (      | |              ) || (   ) || (      | (      
- | )   ( |/\____) || (____/\| (____/\  /\____) || )   ( || (____/\| (____/\
- |/     \|\_______)(_______/(_______/  \_______)|/     \|(_______/(_______/
-
-
 ## Code Challenge
 This repository contains solutions to three coding challenges solved in Python. Each challenge has its own function and input/output method. Below are the details of each challenge:
 ### Challenge 1: Convert 12-Hour Time to 24-Hour Time
